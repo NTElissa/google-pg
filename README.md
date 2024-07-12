@@ -1,8 +1,9 @@
 # Google Home page
 
 # !Google Home page (  Google -Font)Screenshot
-![Screenshot 2024-07-12 105717](https://github.com/user-attachments/assets/8c731b95-9451-4ee1-a2d2-63cdae7abcf6)
-![Screenshot 2024-07-12 105827](https://github.com/user-attachments/assets/4a67910b-2893-4f57-8434-ab379a578ae9)
+
+![Screenshot 2024-07-12 135230](https://github.com/user-attachments/assets/e955ee32-2bb9-45b0-bfae-c774ee836dbe)
+![Screenshot 2024-07-12 135256](https://github.com/user-attachments/assets/2cffa870-249e-4ffc-aa4b-640ce3acaf10)
 
 
 A sleek and responsive Google homepage clone built with React and Tailwind CSS.
